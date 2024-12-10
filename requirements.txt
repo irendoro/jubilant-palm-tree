@@ -1,0 +1,5 @@
+gmpy2
+pycryptodome
+flask
+flask-bcrypt
+flask-sqlalchemy
